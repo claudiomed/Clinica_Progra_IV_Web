@@ -121,9 +121,9 @@
 								<p>La Clínica Progra IV, nace con el propósito de brindar un servicio de alto nivel médico, atención personalizada, calidez humana y con solidaridad hacia nuestros pacientes, esto se logra con la gran capacidad de nuestros especialistas y con la excelente vocación de servir de todo nuestro personal. </p>
 								<p>La idea de crear un centro médico de tales carácteristicas era algo alarmante al inicio, ya que siempre hemos velado que nuestros servicios de salud sean exclusivos y que tengan una accesibilidad para las familias de la clase trabajadora del país. Sin embargo con el esfuerzo y la disposición de todo nuestro equipo, se ha logrado el objetivo de la clínica. </p>
                                 <h2>Misión</h2>
-                                <p>Brindar servicios de salud con altos estándares de calidad, a un costo justo para nuestros queridos clientes</p>
+                                <p>Brindar servicios de salud con altos estándares de calidad, a un costo justo para nuestros queridos clientes.</p>
                                 <h2>Visión</h2>
-                                <p>Ser la clínica del pueblo y para el pueblo de la clase trabajadora del país</p>
+                                <p>Alcanzar a la población de clase trabajadora del país y brindarle servicios de salud de alta calidad.</p>
 							</div>
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="about-m">
