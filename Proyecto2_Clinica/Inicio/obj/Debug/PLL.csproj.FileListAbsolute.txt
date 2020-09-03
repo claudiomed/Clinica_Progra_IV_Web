@@ -269,7 +269,6 @@ C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proye
 C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\bin\roslyn\vbc.rsp
 C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\bin\roslyn\VBCSCompiler.exe
 C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\obj\Debug\PLL.csprojAssemblyReference.cache
 C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\obj\Debug\PLL.csproj.CoreCompileInputs.cache
 C:\Users\Claudio\Desktop\Proyecto #2 Programacion IV\Clinica_Progra_IV_Web\Proyecto2_Clinica\Inicio\obj\Debug\PLL.csproj.CopyComplete
